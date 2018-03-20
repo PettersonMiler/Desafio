@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\ce06f4461dd0ca41201621cb0af0388ee28a5c89\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\classes_4d0555061028e15c1aed6e8189639a64b40ee3e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_08d85f4c9f2aa80e8e67d0889d8f7bd9cb4b6047.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_dc5845797020beedbb25a767e39e1820dfdd6101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_4cc991842c9a74f23b51e4854f4b07da9961ca50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_c8c9a68f831bb3f53e79d5a9cf98eafcf1e49929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_187badd7987523eb41eaeb70774c90ec42f38197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\ce06f4461dd0ca41201621cb0af0388ee28a5c89\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_e0171fc46bc7460fc3424d7df3cfd2d1ced3f026.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_51fc79f0096bdc04476b7ca49fc1dfe267becdbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_d986485560a9c8f1a61ab68fcc48247fc9dc0afe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_f09b32a49210d2e724f68e6214c2f39ded139e10.jar" />
+    </item>
+
+</items>
