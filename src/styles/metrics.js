@@ -1,11 +1,8 @@
-import { Dimensions } from 'react-native';
-
-const { width, height } = Dimensions.get('window');
-
 export default {
-  basePadding: 20,
-  baseMargin: 10,
+  basePadding: 10,
+  baseMarginTop: 20,
+  baseMarginHorizontal: 20,
   baseRadius: 3,
-  screenWidth: width < height ? width : height,
-  screenHeight: width < height ? height : width,
+  elevacao: 2,
+  font: 20,
 };
