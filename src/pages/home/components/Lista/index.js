@@ -1,8 +1,8 @@
 import React from 'react';
+import { withNavigation } from 'react-navigation';
 import { View, Text, TouchableOpacity } from 'react-native';
 import PropTypes from 'prop-types';
 import styles from './styles';
-import { withNavigation } from 'react-navigation';
 
 const Lista = ({ lista, navigation }) => (
 
@@ -14,7 +14,7 @@ const Lista = ({ lista, navigation }) => (
       }
     >
       <View style={styles.containerInfo}>
-        <Text style={styles.texto}>{lista.bairro} - {lista.cidade}</Text>
+        <Text style={styles.texto}>{lista.cidade} - {lista.bairro}</Text>
       </View>
     </TouchableOpacity>
   </View>

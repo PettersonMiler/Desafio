@@ -1,9 +1,10 @@
 import React from 'react';
 import { View, Text } from 'react-native';
+import styles from './styles';
 
 const HeaderLocal = navigation => (
   <View>
-    <Text>{navigation.lista.bairro}</Text>
+    <Text style={styles.titulo}>{navigation.lista.cidade} - {navigation.lista.bairro}</Text>
   </View>
 );
 
