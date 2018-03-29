@@ -3,12 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\petia\.android\build-cache\ce06f4461dd0ca41201621cb0af0388ee28a5c89\output\jars\classes.jar"
+        jar="C:\Users\petia\.android\build-cache\a4c75b78b62413ef92e3259aaa2921a7ddb83b2b\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
-        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\classes_4d0555061028e15c1aed6e8189639a64b40ee3e4.jar" />
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\classes_0a3d57d3647525263dc6ceb3c70fbb7e8017118b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_79198406563c0ec5290c82489fcf864b506fc3d6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,12 +39,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\49d261a9f6e5053e265531f81209f410c037aab2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\classes_44cac3e9a6115168ad37562fe0796e1a053897ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="f162442a19fff13995fbd51ba414d9ee05579080">
         <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_4cc991842c9a74f23b51e4854f4b07da9961ca50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\10bf0f429d8fe8b4dc59df00e3e5c3c1337636ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\classes_427885c74a2b6e9f245c4cd8087dce97caade04a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,21 +84,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\petia\.android\build-cache\ce06f4461dd0ca41201621cb0af0388ee28a5c89\output\jars\libs\infer-annotations-4.0.jar"
+        jar="C:\Users\petia\.android\build-cache\de2bbf90b93583e9ebfa3d580124069d4982548f\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_e0171fc46bc7460fc3424d7df3cfd2d1ced3f026.jar" />
+        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\classes_89d23462651e63cd6838cf9337fd2980d18b388f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\petia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jar="C:\Users\petia\Desktop\4all\desafio\node_modules\react-native-maps\lib\android\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_51fc79f0096bdc04476b7ca49fc1dfe267becdbb.jar" />
+        revision="25.0.0"
+        sha1="5ab151698a7278176c9e6a60b6e18dbb4bebdf9f">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\classes_6b58aa73e39294b9cd412be247b7cd6ec5a78701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\9d75a390cba33e10dd3dcd4d6597e54f80171b08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\classes_a371fdb0f07a9967d4d4e46ad45fb40f52a0b76f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,12 +120,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\a49fbfdd3bc0ce69b104f0d1ca2a363f31373c18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\classes_f6c952c4725d05dad3438e2ecc1261504a899d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\petia\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_f09b32a49210d2e724f68e6214c2f39ded139e10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\de2bbf90b93583e9ebfa3d580124069d4982548f\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_a97909bf910dc9a6da61b5702bb0fa095da66e59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\petia\.android\build-cache\a4c75b78b62413ef92e3259aaa2921a7ddb83b2b\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\petia\Desktop\4all\desafio\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_0faf09aa645547aee6d4a510d4a9e48333af89ab.jar" />
     </item>
 
 </items>

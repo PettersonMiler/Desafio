@@ -17,7 +17,6 @@ const styles = StyleSheet.create({
   },
   containerInfo: {
     marginHorizontal: metrics.baseMarginHorizontal,
-    //flexDirection: 'row',
   },
   texto: {
     textAlign: 'center',

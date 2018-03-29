@@ -1,0 +1,4 @@
+#Tue Mar 27 00:08:03 BRT 2018
+base.0=C\:\\Users\\petia\\Desktop\\4all\\desafio\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
