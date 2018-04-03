@@ -42,16 +42,18 @@ export default class Home extends Component {
     }
     Não excuta o setState, assim n passando a informação,
     não sei como arrumar escrevendo dessa forma,
-    por isso realizei essa parte da forma antiga
+    por isso realizei essa parte da forma 'antiga'
     */
-    this.state.data.lista.map(item => {
+
+    this.state.data.lista.map((item) => {
       api.get(`/tarefa/${item}`)
-      .then(result => {
-        this.setState({
-          base: [...this.state.base, result.data],
-          loading: false,
+        .then((result) => {
+          this.setState({
+            base: [...this.state.base, result.data],
+            loading: false,
           });
         });
+      return this.setState;
     });
   }
 

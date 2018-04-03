@@ -13,7 +13,7 @@ export default {
   imagem: 25,
   fontTitulo: 15,
   fontComent: 10,
-  fontLorem: 20,
+  marginBottomBotao: 5,
   screenWidth: width < height ? width : height,
   screenHeight: width < height ? height : width,
   icone: 20,

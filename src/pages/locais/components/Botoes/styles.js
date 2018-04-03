@@ -1,5 +1,5 @@
 import { StyleSheet } from 'react-native';
-import { colors } from 'styles';
+import { colors, metrics } from 'styles';
 
 const styles = StyleSheet.create({
   icone: {
@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
   },
   botao: {
     alignItems: 'center',
-    marginBottom: 5,
+    marginBottom: metrics.marginBottomBotao,
   },
   texto: {
     color: colors.padrao,

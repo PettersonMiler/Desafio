@@ -9,9 +9,10 @@ import {
 import MapView from 'react-native-maps';
 import Icon from 'react-native-vector-icons/FontAwesome';
 import { Rating } from 'react-native-elements';
+
 import { colors, metrics } from 'styles';
 import styles from './styles';
-import { Ligar, Servicos, Endereco, Comentarios, Favoritos } from './components/Botoes';
+import { Ligar, Servicos, Endereco, Favoritos } from './components/Botoes';
 import HeaderLocal from './components/HeaderLocal';
 
 export default class Locais extends Component {

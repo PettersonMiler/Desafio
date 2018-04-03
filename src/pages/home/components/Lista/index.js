@@ -25,6 +25,9 @@ Lista.propTypes = {
     cidade: PropTypes.string,
     bairro: PropTypes.string,
   }).isRequired,
+  navigation: PropTypes.shape({
+    navigate: PropTypes.func.isRequired,
+  }).isRequired,
 };
 
 export default withNavigation(Lista);

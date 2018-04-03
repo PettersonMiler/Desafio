@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
   },
   lorem: {
     color: colors.padrao,
-    fontSize: metrics.fontLorem,
+    fontSize: metrics.font,
     marginHorizontal: metrics.baseMarginHorizontal,
     marginTop: metrics.baseMargin,
   },
